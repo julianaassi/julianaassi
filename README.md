@@ -2,13 +2,12 @@
 
 - 🔭 Futura desenvolvedora 
 - 🌱 Estudando Java Full Stack
-- 📫 Contate-me pelo e-mail: juliana-3@hotmail.com
 - 😄 Ela/dela
 
 <div>
   <a href="https://github.com/julianaassi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianaassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaassi&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=julianaassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaassi&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
@@ -22,5 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="margin: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" height="50" style="margin: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" width="50" height="50" style="margin: 20px;" />
+</div>
+
+##
+<div>
+## **Conecte-se comigo nas minhas redes sociais:** 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-assi-3a8792232/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](juliana-3@hotmail.com)
 </div>
 
