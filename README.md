@@ -1,16 +1,12 @@
-## Hi there 👋
+## Oi, me chamo Juliana Assi!!
 
-<!--
-**julianaassi/julianaassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Futura desenvolvedora 
+- 🌱 Estudando java full stack
+- 📫 Contate-me pelo e-mail: juliana-3@hotmail.com
+- 😄 Ela/dela
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/julianaassi">
+<img height="180em" src=https://github-readme-stats.vercel.app/api?username=julianaassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaassi&layout=compact&langs_count=16&theme=dracula"/›
+</div>
